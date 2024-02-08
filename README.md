@@ -8,4 +8,4 @@ Create with NextJs 13. Powered by Open AI. Using tailwind css for styling, Clerk
 
 # Todo
 
-Note Sorting \ Note Previews
+Note Sorting <br /> Note Previews
