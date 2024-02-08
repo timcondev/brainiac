@@ -8,5 +8,4 @@ Create with NextJs 13. Powered by Open AI. Using tailwind css for styling, Clerk
 
 # Todo
 
-A way to sort notes
-Short descriptions
+Note Sorting. Note Previews
